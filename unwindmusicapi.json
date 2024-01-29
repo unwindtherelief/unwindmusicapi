@@ -1,28 +1,222 @@
 {
-  "music_data": [
+  "categories": [
     {
-      "music_id": 1,
-      "music_title": "Instant Anxiety Relief",
-      "image": "https://raw.githubusercontent.com/unwindtherelief/unwindmusicapi/main/oc-gonzalez-xg8z_KhSorQ-unsplash.jpg",
-      "sound": "https://music.youtube.com/watch?v=6MYGaUipOR4&si=CfexBPPUygV2OPwc"
+      "category_id": 1,
+      "category_name": "Calming Sounds",
+      "category_image": "https://raw.githubusercontent.com/unwindtherelief/unwindmusicapi/main/calmingsounds.png",
+      "music_data": [
+        {
+          "music_id": 1,
+          "music_title": "Instant Anxiety Relief",
+          "image": "https://raw.githubusercontent.com/unwindtherelief/unwindmusicapi/main/oc-gonzalez-xg8z_KhSorQ-unsplash.jpg",
+          "sound": "https://music.youtube.com/watch?v=6MYGaUipOR4&si=CfexBPPUygV2OPwc"
+        },
+        {
+          "music_id": 2,
+          "music_title": "Nature Meditation",
+          "image": "https://i0.wp.com/picjumbo.com/wp-content/uploads/beautiful-nature-mountain-scenery-with-flowers-free-photo.jpg?w=600&quality=80",
+          "sound": "https://music.youtube.com/watch?v=koRbYQyPU0U&si=jPa7Vv6Jq65jKOuM"
+        },
+        {
+          "music_id": 3,
+          "music_title": "Deep Meditation",
+          "image": "https://img.freepik.com/free-photo/painting-mountain-lake-with-mountain-background_188544-9126.jpg",
+          "sound": "https://music.youtube.com/watch?v=cF-w7jzVWcM&si=i3S1syOxEuHudQP3"
+        },
+        {
+          "music_id": 4,
+          "music_title": "Positive Energy",
+          "image": "https://img.freepik.com/free-photo/painting-mountain-lake-with-mountain-background_188544-9126.jpg",
+          "sound": "https://music.youtube.com/watch?v=BWMcR35D-cE&si=FvRLsA9aWBovAeEs"
+        }
+      ]
     },
-    {
-      "music_id": 2,
-      "music_title": "Nature Meditation",
-      "image": "https://i0.wp.com/picjumbo.com/wp-content/uploads/beautiful-nature-mountain-scenery-with-flowers-free-photo.jpg?w=600&quality=80",
-      "sound": "https://music.youtube.com/watch?v=koRbYQyPU0U&si=jPa7Vv6Jq65jKOuM"
+{
+      "category_id": 2,
+      "category_name": "Insomnia",
+      "category_image": "https://raw.githubusercontent.com/unwindtherelief/unwindmusicapi/main/insomnia.png",
+      "music_data": [
+        {
+          "music_id": 1,
+          "music_title": "Instant Anxiety Relief",
+          "image": "https://raw.githubusercontent.com/unwindtherelief/unwindmusicapi/main/oc-gonzalez-xg8z_KhSorQ-unsplash.jpg",
+          "sound": "https://music.youtube.com/watch?v=6MYGaUipOR4&si=CfexBPPUygV2OPwc"
+        },
+        {
+          "music_id": 2,
+          "music_title": "Nature Meditation",
+          "image": "https://i0.wp.com/picjumbo.com/wp-content/uploads/beautiful-nature-mountain-scenery-with-flowers-free-photo.jpg?w=600&quality=80",
+          "sound": "https://music.youtube.com/watch?v=koRbYQyPU0U&si=jPa7Vv6Jq65jKOuM"
+        },
+        {
+          "music_id": 3,
+          "music_title": "Deep Meditation",
+          "image": "https://img.freepik.com/free-photo/painting-mountain-lake-with-mountain-background_188544-9126.jpg",
+          "sound": "https://music.youtube.com/watch?v=cF-w7jzVWcM&si=i3S1syOxEuHudQP3"
+        },
+        {
+          "music_id": 4,
+          "music_title": "Positive Energy",
+          "image": "https://img.freepik.com/free-photo/painting-mountain-lake-with-mountain-background_188544-9126.jpg",
+          "sound": "https://music.youtube.com/watch?v=BWMcR35D-cE&si=FvRLsA9aWBovAeEs"
+        }
+      ]
     },
-    {
-      "music_id": 3,
-      "music_title": "Deep Meditation",
-      "image": "https://img.freepik.com/free-photo/painting-mountain-lake-with-mountain-background_188544-9126.jpg",
-      "sound": "https://music.youtube.com/watch?v=cF-w7jzVWcM&si=i3S1syOxEuHudQP3"
+{
+      "category_id": 3,
+      "category_name": "Tips for Sleeping",
+      "category_image": "https://raw.githubusercontent.com/unwindtherelief/unwindmusicapi/main/tipsforsleeping.png",
+      "music_data": [
+        {
+          "music_id": 1,
+          "music_title": "Instant Anxiety Relief",
+          "image": "https://raw.githubusercontent.com/unwindtherelief/unwindmusicapi/main/oc-gonzalez-xg8z_KhSorQ-unsplash.jpg",
+          "sound": "https://music.youtube.com/watch?v=6MYGaUipOR4&si=CfexBPPUygV2OPwc"
+        },
+        {
+          "music_id": 2,
+          "music_title": "Nature Meditation",
+          "image": "https://i0.wp.com/picjumbo.com/wp-content/uploads/beautiful-nature-mountain-scenery-with-flowers-free-photo.jpg?w=600&quality=80",
+          "sound": "https://music.youtube.com/watch?v=koRbYQyPU0U&si=jPa7Vv6Jq65jKOuM"
+        },
+        {
+          "music_id": 3,
+          "music_title": "Deep Meditation",
+          "image": "https://img.freepik.com/free-photo/painting-mountain-lake-with-mountain-background_188544-9126.jpg",
+          "sound": "https://music.youtube.com/watch?v=cF-w7jzVWcM&si=i3S1syOxEuHudQP3"
+        },
+        {
+          "music_id": 4,
+          "music_title": "Positive Energy",
+          "image": "https://img.freepik.com/free-photo/painting-mountain-lake-with-mountain-background_188544-9126.jpg",
+          "sound": "https://music.youtube.com/watch?v=BWMcR35D-cE&si=FvRLsA9aWBovAeEs"
+        }
+      ]
     },
-    {
-      "music_id": 4,
-      "music_title": "Positive Energy",
-      "image": "https://img.freepik.com/free-photo/painting-mountain-lake-with-mountain-background_188544-9126.jpg",
-      "sound": "https://music.youtube.com/watch?v=BWMcR35D-cE&si=FvRLsA9aWBovAeEs"
+{
+      "category_id": 4,
+      "category_name": "For Children",
+      "category_image": "https://raw.githubusercontent.com/unwindtherelief/unwindmusicapi/main/forchildren.png",
+      "music_data": [
+        {
+          "music_id": 1,
+          "music_title": "Instant Anxiety Relief",
+          "image": "https://raw.githubusercontent.com/unwindtherelief/unwindmusicapi/main/oc-gonzalez-xg8z_KhSorQ-unsplash.jpg",
+          "sound": "https://music.youtube.com/watch?v=6MYGaUipOR4&si=CfexBPPUygV2OPwc"
+        },
+        {
+          "music_id": 2,
+          "music_title": "Nature Meditation",
+          "image": "https://i0.wp.com/picjumbo.com/wp-content/uploads/beautiful-nature-mountain-scenery-with-flowers-free-photo.jpg?w=600&quality=80",
+          "sound": "https://music.youtube.com/watch?v=koRbYQyPU0U&si=jPa7Vv6Jq65jKOuM"
+        },
+        {
+          "music_id": 3,
+          "music_title": "Deep Meditation",
+          "image": "https://img.freepik.com/free-photo/painting-mountain-lake-with-mountain-background_188544-9126.jpg",
+          "sound": "https://music.youtube.com/watch?v=cF-w7jzVWcM&si=i3S1syOxEuHudQP3"
+        },
+        {
+          "music_id": 4,
+          "music_title": "Positive Energy",
+          "image": "https://img.freepik.com/free-photo/painting-mountain-lake-with-mountain-background_188544-9126.jpg",
+          "sound": "https://music.youtube.com/watch?v=BWMcR35D-cE&si=FvRLsA9aWBovAeEs"
+        }
+      ]
+    },
+{
+      "category_id": 5,
+      "category_name": "Serenity Sounds",
+      "category_image": "https://raw.githubusercontent.com/unwindtherelief/unwindmusicapi/main/serenitysounds.png",
+      "music_data": [
+        {
+          "music_id": 1,
+          "music_title": "Instant Anxiety Relief",
+          "image": "https://raw.githubusercontent.com/unwindtherelief/unwindmusicapi/main/oc-gonzalez-xg8z_KhSorQ-unsplash.jpg",
+          "sound": "https://music.youtube.com/watch?v=6MYGaUipOR4&si=CfexBPPUygV2OPwc"
+        },
+        {
+          "music_id": 2,
+          "music_title": "Nature Meditation",
+          "image": "https://i0.wp.com/picjumbo.com/wp-content/uploads/beautiful-nature-mountain-scenery-with-flowers-free-photo.jpg?w=600&quality=80",
+          "sound": "https://music.youtube.com/watch?v=koRbYQyPU0U&si=jPa7Vv6Jq65jKOuM"
+        },
+        {
+          "music_id": 3,
+          "music_title": "Deep Meditation",
+          "image": "https://img.freepik.com/free-photo/painting-mountain-lake-with-mountain-background_188544-9126.jpg",
+          "sound": "https://music.youtube.com/watch?v=cF-w7jzVWcM&si=i3S1syOxEuHudQP3"
+        },
+        {
+          "music_id": 4,
+          "music_title": "Positive Energy",
+          "image": "https://img.freepik.com/free-photo/painting-mountain-lake-with-mountain-background_188544-9126.jpg",
+          "sound": "https://music.youtube.com/watch?v=BWMcR35D-cE&si=FvRLsA9aWBovAeEs"
+        }
+      ]
+    },
+{
+      "category_id": 6,
+      "category_name": "Self Reflective",
+      "category_image": "https://raw.githubusercontent.com/unwindtherelief/unwindmusicapi/main/selfreflective.png",
+      "music_data": [
+        {
+          "music_id": 1,
+          "music_title": "Instant Anxiety Relief",
+          "image": "https://raw.githubusercontent.com/unwindtherelief/unwindmusicapi/main/oc-gonzalez-xg8z_KhSorQ-unsplash.jpg",
+          "sound": "https://music.youtube.com/watch?v=6MYGaUipOR4&si=CfexBPPUygV2OPwc"
+        },
+        {
+          "music_id": 2,
+          "music_title": "Nature Meditation",
+          "image": "https://i0.wp.com/picjumbo.com/wp-content/uploads/beautiful-nature-mountain-scenery-with-flowers-free-photo.jpg?w=600&quality=80",
+          "sound": "https://music.youtube.com/watch?v=koRbYQyPU0U&si=jPa7Vv6Jq65jKOuM"
+        },
+        {
+          "music_id": 3,
+          "music_title": "Deep Meditation",
+          "image": "https://img.freepik.com/free-photo/painting-mountain-lake-with-mountain-background_188544-9126.jpg",
+          "sound": "https://music.youtube.com/watch?v=cF-w7jzVWcM&si=i3S1syOxEuHudQP3"
+        },
+        {
+          "music_id": 4,
+          "music_title": "Positive Energy",
+          "image": "https://img.freepik.com/free-photo/painting-mountain-lake-with-mountain-background_188544-9126.jpg",
+          "sound": "https://music.youtube.com/watch?v=BWMcR35D-cE&si=FvRLsA9aWBovAeEs"
+        }
+      ]
+    },
+{
+      "category_id": 7,
+      "category_name": "Binaural Beats",
+      "category_image": "https://raw.githubusercontent.com/unwindtherelief/unwindmusicapi/main/binauralbeats.png",
+      "music_data": [
+        {
+          "music_id": 1,
+          "music_title": "Instant Anxiety Relief",
+          "image": "https://raw.githubusercontent.com/unwindtherelief/unwindmusicapi/main/oc-gonzalez-xg8z_KhSorQ-unsplash.jpg",
+          "sound": "https://music.youtube.com/watch?v=6MYGaUipOR4&si=CfexBPPUygV2OPwc"
+        },
+        {
+          "music_id": 2,
+          "music_title": "Nature Meditation",
+          "image": "https://i0.wp.com/picjumbo.com/wp-content/uploads/beautiful-nature-mountain-scenery-with-flowers-free-photo.jpg?w=600&quality=80",
+          "sound": "https://music.youtube.com/watch?v=koRbYQyPU0U&si=jPa7Vv6Jq65jKOuM"
+        },
+        {
+          "music_id": 3,
+          "music_title": "Deep Meditation",
+          "image": "https://img.freepik.com/free-photo/painting-mountain-lake-with-mountain-background_188544-9126.jpg",
+          "sound": "https://music.youtube.com/watch?v=cF-w7jzVWcM&si=i3S1syOxEuHudQP3"
+        },
+        {
+          "music_id": 4,
+          "music_title": "Positive Energy",
+          "image": "https://img.freepik.com/free-photo/painting-mountain-lake-with-mountain-background_188544-9126.jpg",
+          "sound": "https://music.youtube.com/watch?v=BWMcR35D-cE&si=FvRLsA9aWBovAeEs"
+        }
+      ]
     }
+    // Add more categories as needed
   ]
 }
