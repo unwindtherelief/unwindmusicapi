@@ -3,7 +3,7 @@
     {
       "category_id": 1,
       "category_name": "Calming Sounds",
-      "category_image": "https://raw.githubusercontent.com/unwindtherelief/unwindmusicapi/main/calmingsounds.png",
+      "category_image": "https://raw.githubusercontent.com/unwindtherelief/unwindmusicapi/main/calmingsounds.webp",
       "music_data": [
         {
           "music_id": 1,
@@ -34,7 +34,7 @@
 {
       "category_id": 2,
       "category_name": "Insomnia",
-      "category_image": "https://raw.githubusercontent.com/unwindtherelief/unwindmusicapi/main/insomnia.png",
+      "category_image": "https://raw.githubusercontent.com/unwindtherelief/unwindmusicapi/main/insomnia.webp",
       "music_data": [
         {
           "music_id": 1,
@@ -65,7 +65,7 @@
 {
       "category_id": 3,
       "category_name": "Tips for Sleeping",
-      "category_image": "https://raw.githubusercontent.com/unwindtherelief/unwindmusicapi/main/tipsforsleeping.png",
+      "category_image": "https://raw.githubusercontent.com/unwindtherelief/unwindmusicapi/main/tipsforsleeping.webp",
       "music_data": [
         {
           "music_id": 1,
@@ -96,7 +96,7 @@
 {
       "category_id": 4,
       "category_name": "For Children",
-      "category_image": "https://raw.githubusercontent.com/unwindtherelief/unwindmusicapi/main/forchildren.png",
+      "category_image": "https://raw.githubusercontent.com/unwindtherelief/unwindmusicapi/main/forchildren.webp",
       "music_data": [
         {
           "music_id": 1,
@@ -127,7 +127,7 @@
 {
       "category_id": 5,
       "category_name": "Serenity Sounds",
-      "category_image": "https://raw.githubusercontent.com/unwindtherelief/unwindmusicapi/main/serenitysounds.png",
+      "category_image": "https://raw.githubusercontent.com/unwindtherelief/unwindmusicapi/main/serenitysounds.webp",
       "music_data": [
         {
           "music_id": 1,
@@ -158,7 +158,7 @@
 {
       "category_id": 6,
       "category_name": "Self Reflective",
-      "category_image": "https://raw.githubusercontent.com/unwindtherelief/unwindmusicapi/main/selfreflective.png",
+      "category_image": "https://raw.githubusercontent.com/unwindtherelief/unwindmusicapi/main/selfreflective.webp",
       "music_data": [
         {
           "music_id": 1,
@@ -189,7 +189,7 @@
 {
       "category_id": 7,
       "category_name": "Binaural Beats",
-      "category_image": "https://raw.githubusercontent.com/unwindtherelief/unwindmusicapi/main/binauralbeats.png",
+      "category_image": "https://raw.githubusercontent.com/unwindtherelief/unwindmusicapi/main/binauralbeats.webp",
       "music_data": [
         {
           "music_id": 1,
